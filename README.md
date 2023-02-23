@@ -25,7 +25,8 @@ Belajar Programming: Logic 101 (100%)
 
 22 Februari 2023
 --
-Belajar Dasar Git dengan GitHub (38%)
+Belajar Dasar Git dengan GitHub (45%)
 - Belajar pemahaman dasar Git
 - Belajar dasar dan eksplor fitur GitHub (Git Workflow, Commit, Revert, Checkout, Reset, dan lain-lain)
 - Belajar membuat Repository, file README.md, file Release
+- Praktik membuat file Repositori untuk tracking Progres Belajar
