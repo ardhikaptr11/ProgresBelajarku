@@ -16,7 +16,6 @@ Belajar Programming: Logic 101 (100%)
 - Belajar pemahaman dasar Gerbang Logika AND
 - Belajar pemahaman dasar Gerbang Logika OR
 - Belajar pemahaman dasar Gerbang Logika NOT
-- Belajar pemahaman dasar Gerbang Logika OR
 - Belajar pemahaman dasar Gerbang Logika NOR
 - Belajar pemahaman dasar Gerbang Logika NAND
 - Belajar pemahaman dasar Gerbang Logika XOR
